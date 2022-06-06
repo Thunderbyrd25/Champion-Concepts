@@ -1,0 +1,159 @@
+[PASSIVE]
+Balance in Unison
+INNATE - BALANCE: Tharro begins with 50 Chaos and 50 Order. Depending on Tharro's Alignment, basic abilities grant him 10 Chaos or 10 Order, and basic attacks grant him 2 Chaos or 2 Order. Upon reaching 100 Order or 100 Chaos Tharro consumes half to heal and automatically switches alignment.
+
+INNATE - ENDLESS MARKS: Tharro's basic attacks on unmarked enemies marks them with light, abilities consume this mark to deal 2 / 3 / 4% at levels 1 / 7 / 13 (+1% per 100 bAD) of the targets current health as physical damage. Tharro's basic abilities on unmarked enemies marks them with darkness, basic attacks consume this mark to deal 2 / 4 / 6% at levels 1 / 7 / 13 (+2% per 100 bAD) of the targets current health as magic damage.
+
+INNATE - DUAL MASTERY: Tharro gains marks of mastery upon consuming marks of light and darkness, as well as when Tharro reaches 100 of either alignment. Tharro may use marks of mastery to upgrade his abilities.
+
+[Q in Chaos Alignment]
+SLash of Darkness
+COOLDOWN: 12 / 11 / 10 / 9 / 8
+ACTIVE: Tharro slashes in an arc in front of him, dealing physical damage, enemies hit are marked.
+
+RECAST: Tharro blinks to the target marked enemy, dealing physical damage and applying on hit effects.
+
+SLASH DAMAGE:
+80 / 100 / 120 / 140 / 160 (+ 80% bonus AD)
+STRIKE DAMAGE:
+20 / 30 / 40 / 50 / 60 (+ 100% total AD)
+
+Mastery: Shadowy Carnage
+PASSIVE: Takedowns grant Tharro a free recast of this ability on any enemy, marked or not.
+
+MASTERY BONUS: Recasting Corrupted Slash strikes all marked enemies including the target.
+
+[Q in Order Alignment]
+Slash of Light
+COOLDOWN: 16 / 15 / 14 / 13 / 12
+ACTIVE: Tharro sends forth a blast of light from his sword, dealing magic damage, enemies hit are marked.
+
+RECAST: Tharro brings down a sword of light on a marked target enemy, dealing additional damage and healing Tharro.
+
+BLAST DAMAGE:
+30 / 40 / 50 / 60 / 70 (+ 30% total AD)
+STRIKE DAMAGE:
+50 / 80 / 110 / 140 / 170 (+ 50% total AD)
+HEALING:
+15 / 20 / 25 / 30 / 35 (+ 10% total AD)
+
+Mastery: Holy Light
+PASSIVE: The initial blast grants Tharro 40% bonus movement speed for 1.5 seconds.
+
+MASTERY BONUS: Recasting Slash of Light strikes all marked enemies including the target.
+
+[W]
+Change Alignment
+COOLDOWN: 15 / 13 / 11 / 9
+INNATE: Change Alignment cannot be leveled up, instead improving at levels 1 / 6 / 11 / 16.
+
+PASSIVE: Change Alignment's cooldown resets on takedown.
+
+ACTIVE: Tharro steadies his blade and sets his alignment.
+
+[Q during Change Alignment]
+Alignment: Chaos
+PASSIVE: Tharro's basic attacks are modified to strike twice in quick succession at reduced damage.
+
+ACTIVE: Tharro gains bonus movement speed for 1 second.
+
+MOVEMENT SPEED:
+20 / 35 / 50 / 65%
+
+Mastery: Alignment: Destruction
+PASSIVE: On damaging an enemy champion Tharro gains increased damage as physical damage against that target, stacking up to a cap, this bonus is lost upon damaging a different enemy champion.
+
+MASTERY BONUS: Tharro also gains stealth for 1 second.
+
+BONUS DAMAGE:
+1.25 / 1.5 / 1.75 / 2% (+ 1% per 100 bonus AD) up to 12.5 / 15 / 17.5 / 20% (+10% per 100 bonus AD)
+
+[E during Change Alignment]
+Alignment: Order
+PASSIVE: Tharro's basic attacks are modified to cleave around his target dealing reduced damage to secondary targets.
+
+ACTIVE: Tharro slows enemies around him for 1 second.
+
+SLOW:
+30 / 40 / 50 / 60%
+
+Mastery: Alignment: Justice
+PASSIVE: Tharro gains a shield upon damaging an enemy champion. Tharro cannot be receive another shield until he damages a different enemy champion.
+
+MASTERY BONUS: Tharro heals equal to a percentage of damage he has recently suffered.
+
+SHIELD:
+75 / 100 / 125 / 150 (+ 30% total AD)
+
+HEAL:
+12.5 / 15 / 17.5 / 20% (+ 5% total AD) of damage taken in the last 1.5 seconds
+
+[E in Chaos Alignment]
+Corrupted Agility
+COOLDOWN: 20 / 18 / 16 / 14 / 12
+ACTIVE: Tharro dashes a short distance in the target direction, then causes his next basic attack within 3 seconds to be modified to strike 3 times, the third strike deals additional physical damage. Damaging an enemy champion or large monster with this modified attack refunds some of Corrupted Agility's cooldown.
+
+BONUS PHYSICAL DAMAGE:
+20 / 30 / 40 / 50 / 60 (+100% total AD + 20 / 30 / 40 / 50 / 60% bonus AD)
+
+COOLDOWN REFUND:
+30 / 35 / 40 / 45 / 50% of Corrupted Agility's base cooldown.
+
+Mastery: Corrupted Sharpness
+
+MASTERY BONUS: The modified attack causes Tharro to lunge through his target.
+
+[E in Order Alignment]
+Chain of Order
+COOLDOWN: 22 / 20 / 18 / 16 / 14
+ACTIVE: Tharro throws out a chain of order, attaching to the first enemy hit, dealing physical damage. Chained enemies cannot leave an area around Tharro while the chain persists, the chain is broken after 5 seconds or if they deal non periodic damage to Tharro.
+
+Mastery: Chain of Justice
+
+MASTERY BONUS: The chain can only be broken with basic attacks.
+
+[R in Chaos Alignment]
+Lord of Chaos
+COOLDOWN: 140 / 120 / 100
+PASSIVE: This ability shares a cooldown with Tharro's Order Alignment ultimate.
+
+ACTIVE: Tharro summons a shadow around him. This clone mimics Tharro's movement. Tharro and his clone begin slashing in an area around them dealing periodic physical damage for 4 seconds. 
+
+FIRST RECAST: Tharro sends his clone dashing to the target area, if clone strikes or is intercepted by an enemy champion, Tharro may recast this ability an additional time.
+
+SECOND RECAST: If the clone struck an enemy champion, Tharro can choose to swap places with his clone, destroying his clone in the process.
+
+PERIODIC DAMAGE:
+20 / 25 / 30 (+ 20% bonus AD) per half second
+
+STRIKE DAMAGE:
+100 / 150 / 200 (+ 65% bonus AD) increased to 200 / 300 / 400 (+ 130% bonus AD) based on the targets missing health
+
+Mastery: Lord of Destruction
+PASSIVE: Tharro obtains this mastery after obtaining all other Chaos masteries.
+
+MASTERY BONUS: Tharro summons an additional clone on the initial cast. If the strike from Tharro kills the target, Tharro summons another clone and begins slashing again. Tharro may not have more than one clone after the initial cast.
+
+[R in Order Alignment]
+Lord of Order
+COOLDOWN 140 / 120 / 100
+PASSIVE: This ability shares a cooldown with Tharro's Chaos Alignment ultimate.
+
+ACTIVE: Tharro places a holy rune on the ground in a large area around him, enemies in this rune are slowed, and take a percentage of damage Tharro deals to enemies in this rune.
+
+DURATION:
+2 / 3 / 4 seconds
+
+SLOW:
+20 / 25 / 30%
+
+DAMAGE MIRRORED:
+10 / 15 / 20% (+ 5% total AD)
+
+Mastery: Lord of Justice
+PASSIVE: Tharro obtains this mastery after obtaining all other Order masteries.
+
+MASTERY BONUS: A percentage of damage that Tharro takes while standing in this rune is mitigated.
+
+MITIGATED DAMAGE:
+5 / 7.5 / 10% (+ 3 / 4 / 5% total AD)
