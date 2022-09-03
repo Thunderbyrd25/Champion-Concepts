@@ -1,0 +1,83 @@
+(Disclaimer: all of this was made before the release of Bel'veth and Zeri, in case any of it looks like a copy.)
+[Stats]
+
+	Health - 560 > 2180
+	Armor - 34 > 92
+	Magic resist - 22 > 54
+	Movement Speed - 345
+	Resource - Momentum
+	AD - 57 - 115
+	Crit Damage - 0%
+	Attack Range - 175
+	Base attack speed - 0.685
+
+[Passive]
+
+	[Unstable Corruption]
+	Zephyr suffers from the voids influence, corrupting his abilities when certain conditions are met.
+	
+	[Momentum]
+	Zephyr deals reduced damage with his attacks.
+	Zephyr gains stacks of momentum upon damaging monsters and enemy champions, stacks of momentum grant zephyr bonus movement speed, attack speed, and ability haste.
+
+
+[Q] 
+
+	[Passive]
+	Zephyr's attacks and abilities against the same target causes them to take 0.0006 / 0.0007 / 0.0008 / 0.0009 / 0.001 (bAD) %bonus physical damage from Zephyr's attacks and abilities, up to 2 / 4 / 6 / 8 / 10(+ 0.05 / 0.1 / 0.15 / 0.2 / 0.25 bAD) % bonus physical damage.
+
+	[Blades of Judgement] 
+	Cooldown - 10 / 9 / 8 / 7 / 6 seconds
+	Zephyr's next auto attack gains double range and dashes him through his target, granting him bonus attack speed and causing his next 3 auto attacks to deal bonus percent health damage.
+
+[W]
+
+	[Take Flight]
+	Cooldown - 24 / 22 / 20 / 18 / 16
+	Zephyr causes his next auto attack to not deal any damage, instead granting him a shield equal to the damage the attack would have dealt
+	
+[E]
+	
+	[The Best Defense]
+	Cooldown - 20 / 19.5 / 19 / 18.5 / 18
+	Zephyr goes into a frenzy, doubling and uncapping his attack speed and gaining and additional (15 / 20 / 25 / 30 / 35)% attack speed for 5 seconds, during this time his attacks deal 66% less damage, apply on hit effects at 33% effectiveness, and cause his 
+	attacks to convert (15 / 17.5 / 20 / 22.5 / 25)% of damage they deal into a rapidly decaying shield. 
+	
+	[Evolution at level 6]
+	Bonus attack speed from [The Best Defense] is now doubled. (damage option)
+	
+	[Evolution at level 11]
+	While under the effects of [The Best Defense] Zephyr now reduces shielding on enemies he hits by 40%. (utility option)
+	
+	[Evolution at level 16]
+	The base cooldown of [The Best Defense] is now reduced by 50%. (defense option)
+	
+[R]
+
+	[Codependency]
+	Cooldown - 120 / 110 / 100
+	Zephyr temporarily relinquishes control to the voids corruption, altering his attacks and abilities for 5 seconds.
+	During this time, Zephyr enters a frenzy, gaining (10 / 15 / 20%) movement speed, (10 / 20 / 30) ability haste, and (20 / 40 / 60%) attack speed.
+	Whenever Zephyr deals damage to an enemy champion, he gains a stack of momentum, momentum does not have a cap and stacks decay at a faster rate the more he has.
+	Every stack of momentum increases the duration of [Codependency] by (2 / 3 / 4) seconds, as well as giving him (2 / 4 / 6%) movement speed, (4 / 8 / 12%) attack speed, and (4 / 5 / 6) ability haste.
+	The duration is only further increased for every stack beyond the set cap.
+	Higher momentum stacks have diminishing returns, down to a minimum of (0.2 / 0.3 / 0.4) seconds, (0.2 / 0.3 / 0.4%) movement speed, (0.4 / 0.8 / 1.2%) attack speed, and (0.4 / 0.5 / 0.6) ability haste.
+	Casting [Take Flight] pauses the duration of [Codependency] while it lasts.
+	
+	[Blades of Judgement]
+	Attacks only use [Blade Flurry], instead replacing [Divine Lunge] with a targetted empowered cast of [Sinseeker] with double range, resetting on takedown.
+	
+	[Take Flight] 
+	grants untargettability during this time.
+	
+	[The Best Defense] 
+	Attack speed lasts indefinitely during [Codependency], and replaces the cast with a (40 / 80 / 120 + 0.5 bAD) shield.
+	
+	[Evolution at level 6]
+	The initial duration of [Codependency] is now 10 seconds. (damage)
+	
+	[Evolution at level 11]
+	Casting [Codependency] cleanses any crowd control effects Zephyr is affected by. (defense option)
+	
+	[Evolution at level 16]
+	Getting a takedown sets the duration of [Codependency] to 5 + (0.33 per momentum stack) (utility option)
