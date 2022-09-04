@@ -1,9 +1,9 @@
 GOALS: make mist more prevalent in kit, add it to r and make r be a ruination effect, give it a passive akin to jhin e passive but with mist, q ranks give more attack speed in mist, e ranks give more armor and mr in mist
 
 [Sovereign's Domination]
-INNATE - Dominator's Grasp: Whenever Viego scores an enemy champion takedown while alive and within 3 seconds of damaging them, a Mist Wraith spawns from that champion's corpse for 8 seconds. Viego can basic attack or Spectral Maw a Mist Wraith to consume it: causing him to blink to its location after winding up for 2 seconds, during which he heals himself for 1% (+ 5% per 100 bonus AD) (+ 3% per 100 AP) (+ 7% per 100% bonus attack speed) of the target's maximum health over the duration, gains 40 / 55 / 70% (based on level) + (10% per 100 bonus AD) damage reduction (halved against towers), immunity to crowd control effects, and unable to act.  He then gains Possession.
+INNATE - DOMINATOR'S GRASP: Whenever Viego scores an enemy champion takedown while alive and within 3 seconds of damaging them, a Mist Wraith spawns from that champion's corpse for 8 seconds. Viego can basic attack or Spectral Maw a Mist Wraith to consume it: causing him to blink to its location after winding up for 2 seconds, during which he heals himself for 1% (+ 5% per 100 bonus AD) (+ 3% per 100 AP) (+ 7% per 100% bonus attack speed) of the target's maximum health over the duration, gains 40 / 55 / 70% (based on level) + (10% per 100 bonus AD) damage reduction (halved against towers), immunity to crowd control effects, and unable to act.  He then gains Possession.
 
-POSSESSION: For 10 seconds, Viego assumes the enemy champion's form and gains their basic attacks, basic abilities, items, and base stats (based on Viego's level). He also gains a free cast of Ruination which deals half the damage, scales with the possession's health, and is initially placed on a 1.5-second cooldown, and 10% bonus movement speed while facing an enemy champion within 2500 units.
+POSSESSION: For 10 seconds, Viego assumes the enemy champion's form and gains their basic attacks, basic abilities, items, and base stats (based on Viego's level). He also gains a free cast of Heartbreaker, which is initially placed on a 1.5-second cooldown, and 10% bonus movement speed while facing an enemy champion within 2500 units.
 
 Viego cannot use item actives item actives, consumable items, nor the shop during Possession. Casting Ruination or attacking a Mist Wraith ends Possession immediately.
 
@@ -76,7 +76,11 @@ Harrowed Path can be cast during any of Viego's abilities. He cannot gain the ca
 [Ruination]
 COST: 5% (+ 10% per 100 bonus AD) CURRENT HEALTH
 COOLDOWN: 120 / 110 / 100
+
 PASSIVE: Whenever Viego scores an enemy champion takedown while alive and within 3 seconds of damaging them, a bloom of black mist spawns around that champion's corpse, which lasts 8 seconds.
+
+PASSIVE: During possession, Viego gains a free cast of Heartbreaker.
+
 ACTIVE: Viego stabs his heart with his blade, dealing damage to himself and nearby enemies, and causing black mist to spawn outward from himself. He then assumes his role as the ruined king for 10 seconds.
 During this time the bonus on hit damage from Blade of the Ruined King is dealt as maximum health damage, the armor and magic resistance in the black mist is doubled, possession channel time is halved, enemies inside black mist are marked by Blade of the Ruined King, and enemies in the black mist are dealt bonus magic damage per second.
 
@@ -87,4 +91,10 @@ BONUS PHYSICAL DAMAGE:
 BONUS MAGIC DAMAGE PER SECOND:
 0.5 / 0.75 / 1% (+ 1% per 100 bonus AD) of their maximum health
 
-If a Possession is discarded, Ruination will be placed on a 1.5-second cooldown if it is not already on cooldown. 
+[Heartbreaker]
+ACTIVE: Viego gains displacement immunity over the cast time, then blinks to the target location. Upon arrival, he attacks the most wounded enemy champion nearby (alternatively the closest one), which deals bonus physical damage, slows them by 99% for 0.25 seconds, and applies on-hit effects at 100% effectiveness.
+
+BONUS PHYSICAL DAMAGE:
+8 / 9 / 10% (+ 3 / 4 / 5% per 100 bonus AD) of target's missing health
+
+Other nearby enemies are instead dealt 120% AD physical damage, increased by 0% − 100% (based on critical strike chance), and knocked back up to 400-units away based on proximity, though not through terrain.
