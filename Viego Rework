@@ -74,7 +74,7 @@ Declaring a basic attack or casting an ability will break the camouflage and rem
 Harrowed Path can be cast during any of Viego's abilities. He cannot gain the camouflage nor bonus movement speed from Harrowed Path for 0.75 seconds after starting the channel of Spectral Maw, recasting ends this duration prematurely.
 
 [Ruination]
-COST: 4% (+ 6 / 7 / 8% per 100 bonus AD) CURRENT HEALTH
+COST: 4% (+ 4 / 5 / 6% per 100 bonus AD) CURRENT HEALTH
 COOLDOWN: 120 / 110 / 100
 
 PASSIVE: Whenever Viego scores an enemy champion takedown while alive and within 3 seconds of damaging them, a bloom of black mist spawns around that champion's corpse, which lasts 8 seconds.
@@ -87,7 +87,7 @@ During this time the bonus on hit damage from Blade of the Ruined King is dealt 
 The duration of the ruined king is refreshed when Viego scores a takedown.
 
 BONUS PHYSICAL DAMAGE:
-100 / 150 / 200 (+ 4% (+ 6 / 7 / 8% per 100 bonus AD) maximum health)
+100 / 150 / 200 (+ 4% (+ 4 / 5 / 6% per 100 bonus AD) maximum health)
 BONUS MAGIC DAMAGE PER SECOND:
 0.5 / 0.75 / 1% (+ 1% per 100 bonus AD) of their maximum health
 
