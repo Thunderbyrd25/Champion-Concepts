@@ -78,7 +78,7 @@ COST: 5% (+ 10% per 100 bonus AD) CURRENT HEALTH
 COOLDOWN: 120 / 110 / 100
 PASSIVE: Whenever Viego scores an enemy champion takedown while alive and within 3 seconds of damaging them, a bloom of black mist spawns around that champion's corpse, which lasts 8 seconds.
 ACTIVE: Viego stabs his heart with his blade, dealing damage to himself and nearby enemies, and causing black mist to spawn outward from himself. He then assumes his role as the ruined king for 10 seconds.
-During this time the bonus on hit damage from Blade of the Ruined King is dealt as maximum health damage, the armor and magic resistance in the black mist is doubled, possession channel time is halved, enemies inside black mist are marked by Blade of the Ruined King, and enemies in the black mist are bonus dealt magic damage per second.
+During this time the bonus on hit damage from Blade of the Ruined King is dealt as maximum health damage, the armor and magic resistance in the black mist is doubled, possession channel time is halved, enemies inside black mist are marked by Blade of the Ruined King, and enemies in the black mist are dealt bonus magic damage per second.
 
 The duration of the ruined king is refreshed when Viego scores a takedown.
 
