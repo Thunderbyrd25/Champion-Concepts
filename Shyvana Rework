@@ -128,9 +128,9 @@ SIZE INCREASE:
 [Dragon Breath]
 COST: 20 / 15 / 10 fury per second.
 COOLDOWN: 5 / 2.5 / 0
-ACTIIVE: Shyvana prepares for a brief moment, then channels to breathe fire in a cone in front of her for as long as she channels, draining fury per second and dealing magic and physical damage per tick to enemies, and applying on-hit effects at reduced effectiveness.
+ACTIIVE: Shyvana prepares for a brief moment, then channels to breathe fire in a cone in front of her for as long as she channels, draining fury per second and dealing magic and physical damage every 0.5 seconds to enemies, and applying on-hit effects at reduced effectiveness.
 
-MAGIC DAMAGE:
+MAGIC DAMAGE PER TICK:
 20 / 35 / 50  (+ 20 / 25 / 30% AP) (based on the level of Dragon's Descent)
 
 PHYSICAL DAMAGE:
