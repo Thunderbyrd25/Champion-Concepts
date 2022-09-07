@@ -109,9 +109,12 @@ PASSIVE - FURY: Dragon's Descent requires 200 Fury to be cast. Shyvana generates
 FURY GENERATION PER SECOND:
 1 / 1.5 / 2
 ACTIVE: Shyvana briefly channels then transforms into DRAGON FORM and takes to the skies to fly to the target location, scorching the earth below her dealing magic damage before landing at the end of her path.
+Shyvana leaves behind fire where she scorched, dealing magic damage per second to all enemies who stand in it.
 
 MAGIC DAMAGE:
 150 / 200 / 250 (+ 70% AP)
+MAGIC DAMAGE PER TICK:
+37.5 / 50 / 62.5 (+ 17.5% AP)
 DRAGON FORM: Shyvana gains bonus health, bonus attack range, increased size, and access to Dragon Breath. Her abilities are also empowered to apply an additional effect. She maintains DRAGON FORM at a recurring cost of Fury, returning to Human Form once all Fury has been depleted.
 
 BONUS HEALTH:
