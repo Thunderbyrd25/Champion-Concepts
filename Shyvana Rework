@@ -131,10 +131,10 @@ COOLDOWN: 5 / 2.5 / 0
 ACTIIVE: Shyvana prepares for a brief moment, then channels to breathe fire in a cone in front of her for as long as she channels, draining fury per second and dealing magic and physical damage every 0.5 seconds to enemies, and applying on-hit effects at reduced effectiveness.
 
 MAGIC DAMAGE PER TICK:
-20 / 35 / 50  (+ 20 / 25 / 30% AP) (based on the level of Dragon's Descent)
+10 / 17.5 / 25  (+ 10 / 12.5 / 15% AP) (based on the level of Dragon's Descent)
 
-PHYSICAL DAMAGE:
-20 / 35 / 50 (+ 30 / 40 / 50% AD) (based on the level of Dragon's Descent)
+PHYSICAL DAMAGE PER TICK:
+10 / 17.5 / 25 (+ 15 / 20 / 25% AD) (based on the level of Dragon's Descent)
 
 ON-HIT EFFECTIVENESS:
-20 / 30 / 40% (based on the level of Dragon's Descent)
+10 / 15 / 20% (based on the level of Dragon's Descent)
