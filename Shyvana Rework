@@ -4,7 +4,7 @@ GOALS: Make bonuses from killing dragons cooler, preserve multiple build options
 
 INNATE - ELEMENTAL ATTONEMENT: Shyvana gains bonuses on her abilities for every elemental dragon slain by her or her team.
 
-1 DRAGON SLAIN - OCEAN HEALING: Shyvana heals for 20 - 126 (based on level) (+ 18% bonus AD) (+ 12% AP) (+ 8% bonus health) health over 4 seconds per enemy champion affected by embers.
+1 DRAGON SLAIN - OCEAN HEALING: While an enemy champion is effected by embers, Shyvana heals for 20 - 126 (based on level) (+ 18% bonus AD) (+ 12% AP) (+ 8% bonus health) health over 4 seconds.
 
 2 DRAGONS SLAIN - EARTHEN BULWARK: During dragon form, Shyvana gains earthen-scale plates, granting her 36 bonus armor and magic resistance. Whenever Shyvana loses 25% of her health, a plate breaks, losing 9 armor and magic resistance. Every time a plate breaks, Shyvana grants herself a 31 - 126 (+ 11% bonus AD) (+ 8% AP) (+ 8% bonus health) shield (4 second cooldown). 
 
