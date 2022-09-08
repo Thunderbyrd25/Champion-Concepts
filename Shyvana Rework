@@ -4,18 +4,18 @@ GOALS: Make bonuses from killing dragons cooler, preserve multiple build options
 
 INNATE - ELEMENTAL ATTONEMENT: Shyvana gains bonuses on her abilities for every elemental dragon slain by her or her team.
 
-1 DRAGON SLAIN - OCEAN HEALING: Shyvana heals for 0.5 - 5 (based on level) (+ 5% bonus AD) (+ 2.5% AP) health per second per enemy champion affected by embers.
+1 DRAGON SLAIN - OCEAN HEALING: Shyvana heals for 20 - 126 (based on level) (+ 18% bonus AD) (+ 12% AP) (+ 8% bonus health) health over 4 seconds per enemy champion affected by embers.
 
-2 DRAGONS SLAIN - EARTHEN BULWARK: Shyvana gains earthen scale plates during dragon form, granting her bonus armor and magic resistance the higher her health is. 40 armor and magic resistance between 100 - 75% health, 30 between 74 - 50% health, 20 between 49 - 25% health, and 10 between 24 - 0% health.
+2 DRAGONS SLAIN - EARTHEN BULWARK: During dragon form, Shyvana gains earthen-scale plates, granting her 36 bonus armor and magic resistance. Whenever Shyvana loses 25% of her health, a plate breaks, losing 9 armor and magic resistance. Every time a plate breaks, Shyvana grants herself a 31 - 126 (+ 11% bonus AD) (+ 8% AP) (+ 8% bonus health) shield (4 second cooldown). 
 
-3 DRAGONS SLAIN - SWIFT AS THE CLOUDS: During Dragon Breath, Shyvana can move but she is slowed for 40%.
+3 DRAGONS SLAIN - SWIFT AS THE CLOUDS: During Dragon Breath, Shyvana can move but she is slowed for 60 - 20% (based on level).
 
 4 DRAGONS SLAIN - INFERNAL EMBERS: Flame Breath, Dragon's Descent, and Dragon Breath apply embers for 3 seconds to enemies effected.
 
 5 DRAGONS SLAIN - GIFT OF THE ELDER: Embers deal true damage.
 
 
-INNATE - DRAGONBORN: Shyvana increases the bonuses she receives from slaying elemental dragons by 40 / 60 / 80 / 100% (At levels 1 / 6 / 11 / 16).
+INNATE - DRAGONBORN: Shyvana increases the bonuses she receives from slaying elemental dragons by 20 / 30 / 40 / 50% (At levels 1 / 6 / 11 / 16).
 
 Additionally, Shyvana deals 20% bonus physical damage and magic damage to Dragons.
 
@@ -25,17 +25,17 @@ COOLDOWN: 10 / 9 / 8 / 7 / 6
 ACTIVE: Shyvana empowers her next basic attack within 6 seconds to gain 25 bonus range, deal 100% AD (+ 35% AP) and cause her to strike again after 0.25 seconds, which deals bonus magic damage, applies on-hit and on-attack effects at 100% effectiveness and heals her, reduced against minions.
 
 BONUS MAGIC DAMAGE:
-40 / 45 / 50 / 55 / 60% AD (+ 25% AP) (+ 10% bonus Health)
+40 / 45 / 50 / 55 / 60% AD (+ 25% AP) (+ 10% bonus health)
 HEALING AGAINST MINIONS:
-2 - 20 (based on level) (+ 4 / 4.5 / 5 / 5.5 / 6% AD) (+ 2.5% AP) (+ 1% bonus Health)
+2 - 20 (based on level) (+ 4 / 4.5 / 5 / 5.5 / 6% AD) (+ 2.5% AP) (+ 1% bonus health)
 HEALING AGAINST CHAMPIONS:
-10 - 100 (based on level) (+ 20 / 22.5 / 25 / 27.5 / 30% AD) (+ 12.5% AP) (+ 5% bonus Health)
+6 - 60 (based on level) (+ 12 / 13.5 / 15 / 16.5 / 18% AD) (+ 7.5% AP) (+ 3% bonus health)
 
 The healing is increased by up to 50% based on her missing health, capping out at 30% health.
 INCREASED HEALING AGAINST MINIONS:
-3 - 30 (based on level) (+ 6 / 6.75 / 7.5 / 8.25 / 9% AD) (+ 3.75% AP) (+ 1.5% bonus Health)
+3 - 30 (based on level) (+ 6 / 6.75 / 7.5 / 8.25 / 9% AD) (+ 3.75% AP) (+ 1.5% bonus health)
 INCREASED HEALING AGAINST CHAMPIONS:
-15 - 150 (based on level) (+ 30 / 33.75 / 37.5 / 41.25 / 45) (+ 18.75 AP) (+ 7.5% bonus Health)
+9 - 90 (based on level) (+ 18 / 20.25 / 22.5 / 24.75 / 27% AD) (+ 11.25 AP) (+ 4.5% bonus health)
 
 Basic attacks reduce Twin Bite's cooldown by 0.5 seconds on-hit.
 
@@ -46,9 +46,9 @@ Healing from additional targets is reduced by 20% per additional target, down to
 Shyvana creates a pool of water below each enemy champion hit for 2 seconds, slowing all enemies who pass through the pool. While Fiery Winds flame aura collides with the water pools, steam creates, dealing additional damage over time to enemies who remain in the steam.  
 
 SLOW:
-20  / 30 / 40% (based on the level of Dragon's Descent)
+20  / 25 / 30% (based on the level of Dragon's Descent) (+ 8% per 100 AP)
 MAGIC DAMAGE PER TICK:
-0.5 - 15 (based on level) (+ 2.5 / 5 / 7.5 (based on the level of Dragon's Descent)) (+ 2.5% bonus AD) (+ 1.25% AP) (+ 0.5% bonus Health)
+0.5 - 15 (based on level) (+ 2.5 / 5 / 7.5 (based on the level of Dragon's Descent) ) (+ 2.5% bonus AD) (+ 1.25% AP) (+ 0.25% bonus health)
 
 Twin Bite resets Shyvana's basic attack timer.
 
@@ -58,7 +58,7 @@ COOLDOWN: 16 / 15 / 14 / 13 / 12
 PASSIVE: Shyvana creates a flame aura around herself, dealing magic damage each 0.5 seconds to nearby enemies and marking enemies hit with embers for 3 seconds.
 
 MAGIC DAMAGE PER TICK:
-1 - 30 (based on level) (+ 5 / 7.5 / 10 / 12.5 / 15) (+ 5% bonus AD) (+ 2.5% AP) (+ 1% bonus Health)
+1 - 30 (based on level) (+ 5 / 7.5 / 10 / 12.5 / 15) (+ 5% bonus AD) (+ 2.5% AP) (+ 0.5% bonus health)
 
 Enemies marked with embers take additional magic damage over 3 seconds based on their maximum health, Shyvana's basic attacks deal a portion of this damage on hit.
 
@@ -92,16 +92,16 @@ COOLDOWN: 16 / 14 / 12 / 10 / 8
 ACTIVE: Shyvana lobs a fireball in the target direction that explodes upon hitting an enemy champion, dealing magic damage to all enemies hit and creating a scorched field for 4 seconds. Enemies within the field are dealt additional magic damage every 0.5 seconds.
 
 MAGIC DAMAGE:
-30 / 60 / 90 / 120 / 150 (+ 20% AD) (+ 50% AP)
+30 / 50 / 70 / 90 / 110 (+ 20% AD) (+ 50% AP)
 
 MAGIC DAMAGE PER TICK:
-7.5 / 15 / 22.5 / 30 / 37.5 (+ 5% AD) (+ 12.5% AP)
+10 / 15 / 20 / 25 / 30 (+ 5% AD) (+ 10% AP)
 
 DRAGON FORM BONUS: 
 The fireball deals increased magic damage and the size of the scorched field is doubled.
 
 EMPOWERED MAGIC DAMAGE:
-100 − 160 (based on level) + 30 / 60 / 90 / 120 / 150 (+ 60% AD) (+ 80% AP)
+100 − 160 (based on level) + 30 / 50 / 70 / 90 / 110 (+ 60% AD) (+ 80% AP)
 
 [Dragon's Descent]
 COST: 5 fury per second.
@@ -109,16 +109,16 @@ PASSIVE - FURY: Dragon's Descent requires 200 Fury to be cast. Shyvana generates
 
 FURY GENERATION PER SECOND:
 1 / 1.5 / 2
-ACTIVE: Shyvana briefly channels then transforms into DRAGON FORM and takes to the skies to fly to the target location, scorching the earth below her dealing magic damage before landing at the end of her path.
-Shyvana leaves behind fire where she scorched, dealing magic damage per second to all enemies who stand in it.
+ACTIVE: Shyvana briefly channels then transforms into DRAGON FORM and takes to the skies to fly to the target location, dealing magic damage and scorching the earth behind her for 4 seconds before landing at the end of her path.
+Enemies inside the scorched earth take additional magic damage every 0.5 seconds.
 
 MAGIC DAMAGE:
-150 / 200 / 250 (+ 70% AP)
+120 / 160 / 200 (+ 50% AP)
 MAGIC DAMAGE PER TICK:
-37.5 / 50 / 62.5 (+ 17.5% AP)
+30 / 40 / 50 (+ 10% AP)
 DRAGON FORM: Shyvana gains bonus health, bonus attack range, increased size, and access to Dragon Breath. Her abilities are also empowered to apply an additional effect. She maintains DRAGON FORM at a recurring cost of Fury, returning to Human Form once all Fury has been depleted.
 
-BONUS HEALTH:
+bonus health:
 100 / 150 / 200 (+ 100% bonus AD) (+ 75% AP)
 BONUS RANGE:
 50 / 75 / 100
@@ -127,14 +127,14 @@ SIZE INCREASE:
 
 [Dragon Breath]
 COST: 20 / 15 / 10 fury per second.
-COOLDOWN: 5 / 2.5 / 0
+COOLDOWN: 6 / 3 / 0
 ACTIIVE: Shyvana prepares for a brief moment, then channels to breathe fire in a cone in front of her for as long as she channels, draining fury per second and dealing magic and physical damage every 0.5 seconds to enemies, and applying on-hit effects at reduced effectiveness.
 
 MAGIC DAMAGE PER TICK:
-10 / 17.5 / 25  (+ 10 / 12.5 / 15% AP) (based on the level of Dragon's Descent)
+10 / 17.5 / 25  (+ 15 / 20 / 25% AP) (based on the level of Dragon's Descent)
 
 PHYSICAL DAMAGE PER TICK:
-10 / 17.5 / 25 (+ 15 / 20 / 25% AD) (based on the level of Dragon's Descent)
+10 / 17.5 / 25 (+ 30 / 37.5 / 45% AD) (based on the level of Dragon's Descent)
 
 ON-HIT EFFECTIVENESS:
-10 / 15 / 20% (based on the level of Dragon's Descent)
+15 / 20 / 25% (based on the level of Dragon's Descent)
