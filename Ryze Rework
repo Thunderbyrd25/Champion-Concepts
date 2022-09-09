@@ -1,0 +1,65 @@
+[Arcane Mastery]
+INNATE - ENDLESS MANA: Whenever Ryze hits an enemy with an ability, he gains 2 - 10 (based on level) maximum mana.
+
+INNATE - ARCHMAGE: Whenever Ryze casts an ability, his ability cooldowns are reduced by 1 - 5 (based on level) seconds (reduced by ability haste).
+
+[Overload]
+COST: 20 / 25 / 30 / 35 / 40 MANA
+COOLDOWN:  7 / 6 / 5 / 4 / 3
+PASSIVE: Ryze's basic ability casts charge a Rune stack for 4 seconds, refreshing on subsequent casts and stacking up to 6 times.
+If he casts an ability at 6 stacks, he gains bonus movement speed and shields himself for 20 − 80 (based on level) (+ 30% AP) (+ 1% bonus mana) for 2 seconds.
+
+Additionally, Ryze gains bonus ability haste.
+BONUS ABILITY HASTE:
+10 / 15 / 20 / 25 / 30
+
+ACTIVE: Ryze unleashes a runic blast in the target direction that deals magic damage to the first enemy hit and consumes all Rune Rune stacks.
+
+MAGIC DAMAGE:
+25 / 35 / 45 / 55 / 65 (+ 10% AP) (+ 1% bonus mana)
+
+BONUS MOVEMENT SPEED:
+20 / 25 / 30 / 35 / 40%
+
+FLUX BONUS: Overload deals 25 / 50 / 75 / 100% (based on Desperate Power's Rank) increased damage and spreads to surrounding Fluxed enemies.
+
+[Rune Prison]
+COST: 20 / 30 / 40 / 50 / 60 MANA
+COOLDOWN: 9 / 8 / 7 / 6 / 5
+ACTIVE: Ryze seizes the target enemy, dealing magic damage and slowing them for 1 second.
+
+MAGIC DAMAGE:
+30 / 45 / 60 / 75 / 90 (+ 15% AP) (+ 1.5% bonus mana)
+SLOW:
+20 / 25 / 30 / 35 / 40%
+
+FLUX BONUS: Rune Prison spreads to surrounding fluxed enemies.
+
+[Spell Flux]
+COST: 50 / 45 / 40 / 35 / 30 MANA
+COOLDOWN: 3 / 2.5 / 2 / 1.5 / 1
+ACTIVE: Ryze projects an orb upon the target enemy that deals magic damage.
+
+The target and surrounding enemies are also marked with Flux for 3 seconds. Ryze's basic abilities against Flux targets consume the mark to become empowered with an additional effect.
+
+MAGIC DAMAGE:
+20 / 30 / 40 / 50 / 60 (+ 15% AP) (+ 0.5% bonus mana)
+FLUX BONUS: Spell Flux damages all fluxed enemies spreads farther.
+
+[Desperate Power]
+COOLDOWN: 80 / 70 / 60
+
+ACTIVE: For a duration, Ryze gains bonus omnivamp, bonus ability haste, bonus movement speed, the ability to move while casting abilities, and his basic abilities cast a second time dealing reduced damage.
+
+DURATION:
+6 / 8 / 10
+OMNIVAMP:
+15 / 20 / 25%
+ABILITY HASTE:
+25 / 50 / 75
+MOVEMENT SPEED:
+30 / 50 / 70%
+DAMAGE:
+25 / 50 / 75%
+
+Desperate Power's duration is refreshed upon takedown.
